@@ -1,254 +1,207 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Billy Junaidi",
+    "label": "Application Support Specialist",
+    "image": "/profile.jpg",
+    "email": "billy.junaidi@gmail.com",
+    "phone": "+60 111 9339 232",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "I am a critical thinker when it comes to new technology, always eager and quick to learn new things. I have gained valuable experience in both fast-paced and secure banking working environments, having worked in this field for more than 5 years. Now, I am continuing my journey in a new business line, specifically in logistics. I pride myself on being able to work with speed and accuracy simultaneously, which allows me to complete tasks efficiently.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "63000",
+      "city": "Cyberjaya",
+      "countryCode": "MY",
+      "region": "Malaysia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "billy-junaidi-5b21b087",
+        "url": "https://www.linkedin.com/in/billy-junaidi-5b21b087/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "BillyJunID",
+        "url": "https://x.com/BillyJunID"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "BillyJunID",
+        "url": "https://github.com/BillyJunID"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "DPDHL ITS Asia Pacific",
+      "position": "Application Support Specialist",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "Cyberjaya, Malaysia",
+      "url": "https://dhl.com",
+      "startDate": "2022-11-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Application Support Specialist for GCDB (Global Customer Database)",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Maintain GCDB Application uptime"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Provide support as per user request for GCDB",
+        "Troubleshooting error log and server configuration",
+        "Colaborate with BUIT and DevOps team to implement new features and fix bugs"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Developing and maintaining GCDB. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
+        "Bash",
+        "SQL",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "PT. Bank Danamon Indonesia",
+      "position": "Dev Ops Engineer",
+      "location_type": "On site",
+      "location": "Jakarta, Indonesia",
+      "url": "https://www.danamon.co.id/",
+      "startDate": "2021-10-01",
+      "endDate": "2022-10-01",
+      "summary": "Development support for Danamon CICD",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Contributed to a major initiative that improve efficiency and productivity."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Install and Maintain CICD Application (Jenkins, JIRA, Bitbucket)",
+        "Initiate CICD Pipeline for DBank Pro",
+        "Support all other projects to onboard for CICD Process",
+        "Troubleshooting error log and server configuration"
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Successfully implemented CICD Pipeline for DBank Pro and several other projects"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Bash",
+        "Jenkins",
+        "PostgreSQL",
+        "Git",
+        "OpenShift"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "PT. Bank Danamon Indonesia",
+      "position": "IT Digital Layer Officer",
+      "location_type": "On site",
+      "location": "Jakarta, Indonesia",
+      "url": "https://www.danamon.co.id/",
+      "startDate": "2019-10-01",
+      "endDate": "2021-10-01",
+      "summary": "Development and Production support for DBank Registration and DBank Pro",
       "highlights": [
-        "Completed several client projects successfully"
+        "Develop and maintain DBank Registration and DBank Pro"
+      ],
+      "responsibilities": [
+        "Maintain DBank Registration Application",
+        "Develop new page for DBank Registration Android Application",
+        "Support User Requests for DBank Registration and DBank Pro",
+        "Support BusinessUser Testing for DBank Registration and DBank Pro",
+        "Support DBank Pro Project Pilot Launch",
+        "Initiate CICD Pipeline for DBank Pro"
+      ],
+      "achievements": [
+        "Successfully supported the initiation and launch of DBank Registration and DBank Pro"
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Bash",
+        "Java",
+        "Android",
+        "Jenkins",
+        "Git",
+        "OpenShift",
+        "MsSQL",
+        "PostgreSQL"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "name": "PT. Bank Danamon Indonesia",
+      "position": "IT Development Support Manager",
+      "location_type": "On site",
+      "location": "Jakarta, Indonesia",
+      "url": "https://www.danamon.co.id/",
+      "startDate": "2017-10-01",
+      "endDate": "2019-10-01",
+      "summary": "Development support for Application and Project needs",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Develop and maintain Danamon Online Banking"
+      ],
+      "responsibilities": [
+        "Support DBank Registration Project Initiation",
+        "Support DBank Registration Project Pilot Launch",
+        "Support User Testing for DBank Registration",
+        "Troubleshooting error log and server configuration"
+      ],
+      "achievements": [
+        "Successfully implemented various improvement and features to Danamon Online Banking"
+      ],
+      "skills": [
+        "Batch",
+        "Windows Server",
+        "Git",
+        "MsSQL"
+      ]
+    },
+    {
+      "name": "SecurXcess for PT. Bank Danamon Indonesia (Contract)",
+      "position": "IT Application Support",
+      "location_type": "On site",
+      "location": "Jakarta, Indonesia",
+      "url": "https://www.danamon.co.id/",
+      "startDate": "2016-10-01",
+      "endDate": "2017-10-01",
+      "summary": "Production support for Application and Project needs",
+      "highlights": [
+        "Develop and maintain Danamon Online Banking"
+      ],
+      "responsibilities": [
+        "Support User Request for Danamonline",
+        "Support Bugs Fixing for Danamonline",
+        "Troubleshooting error log and server configuration",
+        "Colaborate with Business User and Vendor's team to implement new features and fix bugs"
+      ],
+      "achievements": [
+        "Successfully implemented various security improvement and features to Danamon Online Banking"
+      ],
+      "skills": [
+        "Batch",
+        "Windows Server",
+        "Git",
+        "MsSQL"
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Bina Nusantara University",
+      "url": "https://binus.ac.id",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-01",
+      "score": "3.2",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Bash",
+      "level": "Advanced",
       "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "Shell",
+        "CLI"
       ]
     },
     {
@@ -261,44 +214,82 @@
       ]
     },
     {
-      "name": "GitHub",
+      "name": "RHEL",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        "Operating Systems",
+        "Linux",
+        "Red Hat Enterprise Linux",
+        "Server"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Windows Server",
+      "level": "Intermediate",
+      "keywords": [
+        "Operating Systems",
+        "Windows",
+        "Server"
+      ]
+    },
+    {
+      "name": "Java Android",
       "level": "Beginner",
       "keywords": [
-        "Web Development",
+        "Mobile Development",
         "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Architecture"
       ]
     },
     {
-      "name": "React",
+      "name": "Docker",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Containers",
+        "Docker",
+        "Images",
+        "Platform"
+      ]
+    },
+    {
+      "name": "Openshift",
+      "level": "Intermediate",
+      "keywords": [
+        "Containers",
+        "Docker",
+        "Images",
+        "Platform",
+        "OpenShift",
+        "OCP"
+      ]
+    },
+    {
+      "name": "PostgresSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": [
+        "CICD",
+        "Pipeline",
+        "DevOps"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Indonesian",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
       "fluency": "Intermediate"
     }
   ],
@@ -313,8 +304,8 @@
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "",
+      "reference": ""
     }
   ],
   "projects": [
@@ -326,39 +317,37 @@
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://billyjunaidi.my.id",
+      "github": "https://github.com/BillyJunID"
     },
     {
-      "name": "Weather App",
+      "name": "DBank Registration",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "An onboarding channel that enable customer to create banking account online",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "Built with Angular and Openshift as the backend",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://register.dbank.co.id/"
     },
     {
-      "name": "Task Manager",
+      "name": "DBank Pro",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A new omnichannel Danamon online banking application",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Built with Angular and Openshift",
+        "End to End integration with core banking system"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://www.dbank.co.id/"
     },
     {
-      "name": "E-commerce Site",
+      "name": "DevOps Pilot Project",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Initiate CICD process in Bank Danamon Indonesia",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+        "Onboard existing projects to Jenkis",
+        "End to End integration with core banking system"
+      ]
     }
   ]
 }
