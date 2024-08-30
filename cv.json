@@ -312,15 +312,15 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "CryptoNodeID",
+      "isActive": true,
+      "description": "Leading an initiative to educate others on Crypto Validator Node Projects, focusing on their management and revenue opportunities.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Trusted Validator Platform and Service",
+        "Learn and discuss freely with community"
       ],
-      "url": "https://billyjunaidi.my.id",
-      "github": "https://github.com/BillyJunID"
+      "url": "https://cryptonode.id",
+      "github": "https://github.com/CryptoNodeID"
     },
     {
       "name": "DBank Registration",
