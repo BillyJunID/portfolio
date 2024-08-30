@@ -84,6 +84,8 @@
       "skills": [
         "Bash",
         "Jenkins",
+        "Maven",
+        "SonarQube",
         "PostgreSQL",
         "Git",
         "OpenShift"
