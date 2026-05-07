@@ -196,6 +196,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "CKAD (Certified Kubernetes Application Developer)",
+      "date": "2025-12-23",
+      "issuer": "Linux Foundation",
+      "url": "https://training.linuxfoundation.org/certification/verify/ (cert number: LF-j7w2v1546t)"
+    }
   ],
   "skills": [
     {
@@ -261,6 +267,7 @@
         "Docker",
         "Images",
         "Platform",
+        "Kubernetes",
         "OpenShift",
         "OCP"
       ]
